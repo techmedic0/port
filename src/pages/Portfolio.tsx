@@ -9,7 +9,7 @@ export default function Portfolio() {
         'A modern hospital website with integrated patient portal and appointment scheduling system.',
       image: 'https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=800&q=80',
       technologies: ['React', 'Tailwind CSS', 'Node.js'],
-      demoUrl: 'https://bespoke-cuchufli-27bf3e.netlify.app',
+      demoUrl: 'https://hospital-ten-opal.vercel.app',
     },
     {
       title: 'HealthHub',
